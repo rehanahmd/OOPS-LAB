@@ -10,7 +10,7 @@ Semester      : 7th
 
 Description   : Calls the derived class function through a base class pointer
 
-Reference     : Adapted from https://github.com/king-3333333/OOPS_Elective_Programs
+
 */
 
 #include <iostream>
