@@ -1,0 +1,60 @@
+/*
+Program Title : Class 9 Program 2
+Concept Used  : Multiple inheritance
+
+Name          : Baba Rehan Ahmed
+SRN           : 01FE24BEC411
+Roll No       : 11
+Division      : A
+Semester      : 7th
+
+Description   : Demonstrates the OOP concept using a simple C++ example.
+
+Reference     : Adapted from https://github.com/king-3333333/OOPS_Elective_Programs
+*/
+
+//This code Has errors... FOR THE CORRECT CODE GO TO class_9 prog_4.
+
+#include<iostream>
+using namespace std;
+
+class Student
+{
+    int roll_no;
+    string name;
+public:
+    //Student(){};                                              no need
+    Student(int a,string b):roll_no(a),name(b){}
+
+};
+
+class Test
+{
+    int marks;
+public:
+    //Test(){};                                                 no need
+    Test(int c):marks(c){}
+};
+
+class Result:public Student,public Test
+{
+    int total_marks;
+    float percentage;
+public:
+    Result(int d,float e,int r,string n,int m):Student(r,n),Test(m),total_marks(d),percentage(e){}
+    void display()
+    {
+
+      cout<<total_marks<<percentage<<endl;
+    }
+};
+
+int main()
+{
+   // Student s1;                                 no need
+    //Test t1;                                    no need
+    Result r1(97,85.7,632,"kingson",65);        //  no need (because its parameterized constructor)
+    r1.display();
+
+    return 0;
+}
