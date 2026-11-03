@@ -10,7 +10,7 @@ Semester      : 7th
 
 Description   : Demonstrates the OOP concept using a simple C++ example.
 
-Reference     : Adapted from https://github.com/king-3333333/OOPS_Elective_Programs
+
 */
 
 // Class_10 prog_3 code but without virtual keyword NO (Runtime polymorphism / Late Binding)
