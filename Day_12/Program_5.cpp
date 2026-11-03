@@ -10,7 +10,7 @@ Semester      : 7th
 
 Description   : Checks the minimum voting age and displays voter details if eligible
 
-Reference     : Adapted from https://github.com/king-3333333/OOPS_Elective_Programs
+
 */
 
 #include <iostream>
