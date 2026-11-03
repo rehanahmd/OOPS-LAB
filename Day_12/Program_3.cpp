@@ -10,7 +10,7 @@ Semester      : 7th
 
 Description   : Demonstrates catching different exception types and a general handler
 
-Reference     : Adapted from https://github.com/king-3333333/OOPS_Elective_Programs
+
 */
 
 #include <iostream>
