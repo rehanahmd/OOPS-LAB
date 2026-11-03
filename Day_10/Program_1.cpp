@@ -10,8 +10,7 @@ Semester      : 7th
 
 Description   : Demonstrates the diamond inheritance problem and resolves member ambiguity using the base-class path.
 
-Reference     : Adapted from https://github.com/king-3333333/OOPS_Elective_Programs
-*/
+
 
 #include <iostream>
 using namespace std;
