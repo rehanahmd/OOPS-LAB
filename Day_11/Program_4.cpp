@@ -10,7 +10,7 @@ Semester      : 7th
 
 Description   : Shows program flow before throwing, inside catch and after catch
 
-Reference     : Adapted from https://github.com/king-3333333/OOPS_Elective_Programs
+
 */
 
 #include <iostream>
