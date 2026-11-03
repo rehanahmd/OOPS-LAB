@@ -1,57 +1,123 @@
-# OOPS LAB PROGRAMS
+Student Details
+Name: Baba Rehan Ahmed
+SRN: 01FE24BEC411
+Roll No: 11
+Division: A
+Semester: 7th
+Branch: ECE
+Subject: Object Oriented Programming using C++
 
-## Student Details
+About
+This repository contains the C++ programs completed as part of the OOPS laboratory. Each program includes the program title, concept used and a short description.
 
-- **Name:** Baba Rehan Ahmed
-- **SRN:** 01FE24BEC411
-- **Roll No:** 11
-- **Division:** A
-- **Semester:** 7th
-- **Branch:** ECE
-- **Subject:** Object Oriented Programming using C++
+Programs
+Day 1
+Area of Rectangle
 
-## About
+Basic Data Types
 
-This repository contains the C++ programs completed as part of the OOPS laboratory.
-Each program includes the program title, concept used and a short description.
+Day 2
+Biggest Number in an Array
 
-## Programs
+Function Call Methods
 
-### Day 1
-1. Area of Rectangle
-2. Basic Data Types
+Palindrome String
 
-### Day 2
-3. Biggest Number in an Array
-4. Function Call Methods
-5. Palindrome String
-6. String Length
+String Length
 
-### Day 3
-7. Area of Rectangle Using Class
-8. Display Student Marks
-9. Student Details
+Day 3
+Area of Rectangle Using Class
 
-### Day 4
-10. Adding Values of Objects
-11. Complex Number Addition
-12. Employee Details
-13. Function Defined Outside Class
-14. Parameterized Constructor
-15. Time Using Class
+Display Student Marks
 
-### Day 5
-16. Copy Constructor
-17. Default Constructor
-18. Employee Details Using Constructors
-19. Static Data Member
+Student Details
 
-### Day 6
-20. Multilevel Inheritance
+Day 4
+Adding Values of Objects
 
-## Note
+Complex Number Addition
 
-The uploaded material contained a duplicate static-member program and an incomplete `Display marks.c`
-file. The duplicate has been consolidated into one program, while the incomplete file has not been
-treated as a separate experiment. This repository therefore contains the usable, distinct programs
-from the uploaded material.
+Employee Details
+
+Function Defined Outside Class
+
+Parameterized Constructor
+
+Time Using Class
+
+Day 5
+Copy Constructor
+
+Default Constructor
+
+Employee Details Using Constructors
+
+Static Data Member
+
+Day 6
+Single-Level Inheritance
+
+Multilevel Inheritance
+
+Multilevel Inheritance Using Access Modes
+
+Day 7
+Multilevel Inheritance Using Vehicle, Car and Sports Car
+
+Multilevel Inheritance Using Protected Members
+
+Day 8
+Single-Level Inheritance Using Constructor Initializer List
+
+Multilevel Inheritance Using Constructor Initializer Lists
+
+Multiple Inheritance with Parameterized Constructors
+
+Student Result Using Multiple Inheritance
+
+Student Result Using Three Subject Marks
+
+Student Result Using Five Subject Marks
+
+Day 9
+Multiple Inheritance Using Liquid, Fuel and Petrol
+
+Student Result Using Multiple Inheritance
+
+Day 10
+Diamond Inheritance Ambiguity
+
+Virtual Base Class
+
+Virtual Functions
+
+Function Overriding Without Runtime Polymorphism
+
+Day 11
+Exception Handling – Division by Zero
+
+Exception Handling – Zero Input Check
+
+Exception Handling – Zero Product
+
+Exception Handling – Throw and Catch
+
+Concatenation of Two Characters
+
+Operator Overloading – String Concatenation
+
+Virtual Function
+
+Day 12
+Exception Handling with User-Defined Exception Class
+
+Nested Try Block
+
+Exception Handling with Integer and Double
+
+Exception Calculator
+
+Voting Eligibility Using Exception Handling
+
+Note
+The uploaded material contained duplicate and incomplete programs. Duplicate concepts have been organized, and incomplete programs have been corrected where possible. The repository contains the usable programs prepared for the OOPS laboratory.
