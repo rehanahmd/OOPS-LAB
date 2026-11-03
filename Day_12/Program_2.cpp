@@ -10,7 +10,7 @@ Semester      : 7th
 
 Description   : Catches an exception in an inner block and rethrows it to the outer handler
 
-Reference     : Adapted from https://github.com/king-3333333/OOPS_Elective_Programs
+
 */
 
 #include <iostream>
