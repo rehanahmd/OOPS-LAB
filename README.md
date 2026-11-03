@@ -1,10 +1,17 @@
+OOPS LAB PROGRAMS
 Student Details
 Name: Baba Rehan Ahmed
+
 SRN: 01FE24BEC411
+
 Roll No: 11
+
 Division: A
+
 Semester: 7th
+
 Branch: ECE
+
 Subject: Object Oriented Programming using C++
 
 About
@@ -91,7 +98,7 @@ Virtual Base Class
 
 Virtual Functions
 
-Function Overriding Without Runtime Polymorphism
+Function Overriding
 
 Day 11
 Exception Handling – Division by Zero
@@ -119,5 +126,3 @@ Exception Calculator
 
 Voting Eligibility Using Exception Handling
 
-Note
-The uploaded material contained duplicate and incomplete programs. Duplicate concepts have been organized, and incomplete programs have been corrected where possible. The repository contains the usable programs prepared for the OOPS laboratory.
