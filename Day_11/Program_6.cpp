@@ -10,7 +10,7 @@ Semester      : 7th
 
 Description   : Combines two user-defined String objects using the + operator
 
-Reference     : Adapted from https://github.com/king-3333333/OOPS_Elective_Programs
+
 */
 
 #include <iostream>
