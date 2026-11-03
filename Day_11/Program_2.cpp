@@ -10,7 +10,7 @@ Semester      : 7th
 
 Description   : Prevents multiplication when either input number is zero
 
-Reference     : Adapted from https://github.com/king-3333333/OOPS_Elective_Programs
+
 */
 
 #include <iostream>
