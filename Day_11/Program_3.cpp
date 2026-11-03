@@ -10,7 +10,7 @@ Semester      : 7th
 
 Description   : Throws an exception when the product of two numbers is zero
 
-Reference     : Adapted from https://github.com/king-3333333/OOPS_Elective_Programs
+
 */
 
 #include <iostream>
