@@ -10,7 +10,7 @@ Semester      : 7th
 
 Description   : Checks that inches are below 12 while constructing or entering a distance
 
-Reference     : Adapted from https://github.com/king-3333333/OOPS_Elective_Programs
+
 */
 
 #include <iostream>
